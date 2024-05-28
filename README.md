@@ -1,7 +1,3 @@
-Sure! Here’s a README file for your serverless To-Do application:
-
----
-
 # Serverless To-Do Application
 
 This project is a serverless To-Do application built using AWS Lambda and Amazon API Gateway. It demonstrates the use of serverless architecture to create a scalable, cost-efficient, and easy-to-manage application.
