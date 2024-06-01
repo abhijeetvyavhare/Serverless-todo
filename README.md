@@ -18,10 +18,13 @@ This project is a serverless To-Do application built using AWS Lambda and Amazon
 3. **Lambda Functions**: Execute the business logic and interact with DynamoDB.
 4. **DynamoDB**: Stores and retrieves the To-Do items.
 5. **S3 Bucket**: Stores static files and backups.
-6. **Route 53**: Provides DNS services.
-7. **CloudWatch**: Logs API Gateway events and monitors application performance.
+6. **CloudFront**: Distributes static and dynamic content globally with low latency.
+7. **Route 53**: Provides DNS services.
+8. **CloudWatch**: Logs API Gateway events and monitors application performance.
 
-   ![Serverless_app drawio](https://github.com/abhijeetvyavhare/Serverless-todo/assets/94742219/6015badf-6215-4c38-b878-efabe6d39aef)
+
+![Serverless_app drawio (1)](https://github.com/abhijeetvyavhare/Serverless-todo/assets/94742219/4d940783-8fe9-476c-8d57-309d8a70c3d1)
+
 
 ## Tech Stack
 
@@ -30,6 +33,7 @@ This project is a serverless To-Do application built using AWS Lambda and Amazon
 - **Amazon DynamoDB**: Serves as the NoSQL database.
 - **AWS IAM**: Manages access policies for AWS resources.
 - **Amazon S3**: Stores static assets and backups.
+- **Amazon CloudFront**: Distributes content with low latency and high transfer speeds.
 - **Amazon Route 53**: Manages domain names and routes traffic.
 - **Amazon CloudWatch**: Monitors and logs API Gateway events.
 
