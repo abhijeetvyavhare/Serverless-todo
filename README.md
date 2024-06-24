@@ -25,6 +25,8 @@ This project is a serverless To-Do application built using AWS Lambda and Amazon
 
 ![Serverless_app drawio (1)](https://github.com/abhijeetvyavhare/Serverless-todo/assets/94742219/4d940783-8fe9-476c-8d57-309d8a70c3d1)
 
+![Demo video (2)](https://github.com/abhijeetvyavhare/Serverless-todo)
+
 
 ## Tech Stack
 
